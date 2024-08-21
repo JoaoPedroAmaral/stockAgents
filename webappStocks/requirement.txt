@@ -1,0 +1,8 @@
+#install
+%pip install yfinance
+%pip install crewai
+%pip install 'crewai[tools]'
+%pip install langchain
+%pip install langchain_openai
+%pip install langchain_community
+%pip install duckduckgo-search
